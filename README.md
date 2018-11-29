@@ -12,7 +12,9 @@ git clone https://github.com/AnandVKamath/docker-monitor.git
 Setup
 
 cd docker-monitor;
+
 chmod +x docker-diskcleanup.sh
+
 chmod +x moniti-containers.sh
 
 Useage 
